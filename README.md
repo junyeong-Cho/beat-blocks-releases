@@ -1,6 +1,6 @@
 # BEAT BLOCKS
 
-[Download for Windows](https://github.com/junyeong-Cho/beat-blocks-releases/releases/latest/download/BEAT-BLOCKS-Windows-x64.zip)
+[Download for Windows](https://github.com/junyeong-Cho/beat-blocks-releases/releases/latest/download/Beat-blocks.zip)
 
 Extract the complete ZIP, then run **BEAT BLOCKS.exe**. Windows 64-bit is required.
 
